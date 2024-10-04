@@ -356,7 +356,7 @@ a:hover{
 }
 .menu-top { background: rgba(0, 0, 0, 0) none repeat scroll 0 0 }
 .navbar-default.sticky_menu {
-    background-color: #0c0872;
+    background-color: #0f1011d2;
     box-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
     width: 100%;
     animation: fadeInDown 1s both 0.2s;
